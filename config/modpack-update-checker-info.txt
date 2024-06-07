@@ -1,6 +1,2 @@
- ![New Origins](https://cdn.modrinth.com/data/cached_images/93dfa22eda785ee834f3edccf2a3bac20153dfb4.png)
-This modpack simulates a Radical RPG Adventure gameplay with Multiplayer supported features. Also massively optimized to be playable on most PCs!
-
-New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game while staying true to **Vanilla**. You can explore large dungeons, build huge cities, or take on roles like a wizard, knight, or archer. You could even live the sneaky life of a thief, stealing from villagers. You could set up and run your own factory. You must be careful where you travel, you must keep an eye on your temperature. Avoid blood moons, many dangerous creatures awaken during blood moons. Go alone or bring some friends along for the adventure. But be careful, dangerous creatures are waiting in the shadows.
-
-This modpack simulates a **Radical RPG** adventure. It's also optimized for lower end PCs! Using shaders follows the aesthetic appeal of this modpack, the default setting has them off, as some people may not be able to run them. You should play multiplayer, however that isn't required. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very big skill tree with multiple paths to choose from. There's items that can be applied to your armor to prevent getting to hot or cold. 
+ ![WoW is Dead!](https://i.imgur.com/buvtySc.png)
+This is a fork of New Origins made custom for friends and family of James and Nicole! I hope you enjoy!

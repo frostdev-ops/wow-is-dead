@@ -36,7 +36,7 @@ capabilities {
     # Prevent triggering neighbor updates when placing/breaking
     noUpdates=false
     # Right-click blocks to replace them with the held block
-    replaceMode=true
+    replaceMode=false
     # Various useful interactions when right-clicking with your fist
     tinker=true
     typeReplace=false

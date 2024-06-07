@@ -87,6 +87,7 @@ mode = "fancy"
 				silverfish = true
 				experience_bottle = true
 				parrot = true
+				guardian = true
 
 			[light_sources.settings.entities.pickyourpoison]
 				poison_dart_frog = true
@@ -119,6 +120,11 @@ mode = "fancy"
 				coral_snake = true
 				catfish = true
 				alligator = true
+				rattlesnake = true
+				rhino = true
+				zebra = true
+				lion = true
+				giraffe = true
 
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true
@@ -207,6 +213,7 @@ mode = "fancy"
 				zebra_danio = true
 				oscar = true
 				discus = true
+				sunfish = true
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true
@@ -249,4 +256,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.spell_engine]
 				spell_projectile = true
+
+			[light_sources.settings.entities.medievalweapons]
+				wooden_francisca = true
 

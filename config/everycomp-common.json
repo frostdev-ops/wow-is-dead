@@ -12,7 +12,6 @@
       "show_on_advanced_tooltips": false
     },
     "types": {
-      "cake": {},
       "wood_type": {
         "betternether.nether_reed": true,
         "betternether.stalagnate": true,
@@ -122,7 +121,8 @@
         "minecells.orange_wilted": true,
         "minecells.red_wilted": true,
         "snifferplus.stone_pine": true
-      }
+      },
+      "cake": {}
     },
     "entries": {
       "wood_type": {
