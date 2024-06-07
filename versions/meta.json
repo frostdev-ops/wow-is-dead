@@ -31,6 +31,16 @@
                 "generic": "https://github.com/frostdev-ops/wow-is-dead/releases/download/1.0.2/Wow.is.Dead.1.0.2.mrpack"
             }
         }
+    },
+    {
+        "id": "1.0.3",
+        "releasedAt": 1717738117729,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/8NWbkpVp/versions/4ULjIm0e/Wow%20is%20Dead%201.0.2.mrpack",
+                "generic": "https://github.com/frostdev-ops/wow-is-dead/releases/download/1.0.2/Wow.is.Dead.1.0.2.mrpack"
+            }
+        }
     }
 
   ]
