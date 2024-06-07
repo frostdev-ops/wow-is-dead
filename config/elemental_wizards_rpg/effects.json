@@ -1,0 +1,6 @@
+{
+  "soaked_lightning_damage_vulnerability": 0.15,
+  "soaked_lightning_critical_chance_vulnerability": 0.1,
+  "soaked_frost_damage_vulnerability": 0.15,
+  "soaked_frost_crit_damage_vulnerability": 0.3
+}

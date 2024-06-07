@@ -1,0 +1,7 @@
+{
+  "disableWorldborder": true,
+  "fogStartDistanceMultiplier": 0.7,
+  "fogEndDistanceMultiplier": 1.0,
+  "minimumFogStartDistance": 0.8,
+  "minimumFogEndDistance": 1.5
+}

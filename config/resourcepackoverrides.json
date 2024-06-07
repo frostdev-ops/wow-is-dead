@@ -1,0 +1,12 @@
+{
+"pack_overrides": {
+    "1": [
+        "file/New Origins Resouce Pack.zip",
+        "file/presence footsteps (modded).zip",
+        "file/True ending dragon msuic.zip",
+        "file/Enhanced Audio r6.zip"
+    ],
+    "$$1": {
+        "hidden": true
+    }
+}

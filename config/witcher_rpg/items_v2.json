@@ -1,0 +1,227 @@
+{
+  "weapons": {
+    "winters_blade_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:lightning",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.15,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "meteorite_witcher_sword": {
+      "attack_damage": 3.2,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:haste",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "diamond_witcher_sword": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "netherite_witcher_sword": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "meteorite_silver_witcher_sword": {
+      "attack_damage": 4.2,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "steel_witcher_sword": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.01,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "aerondight_sword": {
+      "attack_damage": 7.5,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "ultimatum_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "dark_steel_witcher_sword": {
+      "attack_damage": 6.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "dark_iron_witcher_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "iron_witcher_sword": {
+      "attack_damage": 4.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "golden_witcher_sword": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "silver_witcher_sword": {
+      "attack_damage": 2.2,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:haste",
+          "value": 0.01,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "adept": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "witcher": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

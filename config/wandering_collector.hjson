@@ -1,0 +1,30 @@
+{
+	// default: false
+	include-dropped-stacks: false
+	// default: 64
+	// 	Must be greater or equal to 0
+	max-lost-stack-amount: 64
+	// default: RANDOM
+	offer-creation: RANDOM
+	// default: true
+	combine-lost-stacks: true
+	// default: 2
+	// 	Must be greater or equal to 0
+	buy-back-trades: 2
+	default-prices: {
+		// default: 32
+		// 	Must be inclusively between 1 and 64
+		min-price: 32
+		// default: 64
+		// 	Must be inclusively between 1 and 64
+		max-price: 64
+		// default: minecraft:emerald
+		// 	Must be a valid identifier and be present in the following registry: minecraft:item
+		price-item: minecraft:emerald
+		// default: true
+		scale-price-with-count: true
+		// default: 0.3
+		// 	Must be inclusively between 0.0 and 1.0
+		min-price-scale: 0.30000001192092896
+	}
+}
