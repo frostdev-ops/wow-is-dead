@@ -2,6 +2,36 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "1.0.0",
+        "releasedAt": 1716523200000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/8NWbkpVp/versions/T5b1Esgt/Wow%20is%20Dead%201.0.0.mrpack",
+                "generic": "https://github.com/frostdev-ops/wow-is-dead/releases/download/Release/Wow.is.Dead.1.0.0.mrpack"
+            }
+        }
+    },
+    {
+        "id": "1.0.1",
+        "releasedAt": 1716609600000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/8NWbkpVp/versions/wcQF9lWt/Wow%20is%20Dead%201.0.1.mrpack",
+                "generic": "https://github.com/frostdev-ops/wow-is-dead/releases/download/1.0.1/Wow.is.Dead.1.0.1.mrpack"
+            }
+        }
+    },
+    {
+        "id": "1.0.2",
+        "releasedAt": 1717735364929,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/8NWbkpVp/versions/wcQF9lWt/Wow%20is%20Dead%201.0.1.mrpack",
+                "generic": "https://github.com/frostdev-ops/wow-is-dead/releases/download/1.0.1/Wow.is.Dead.1.0.1.mrpack"
+            }
+        }
+    }
+
   ]
 }
