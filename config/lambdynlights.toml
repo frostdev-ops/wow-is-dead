@@ -88,6 +88,19 @@ mode = "fancy"
 				experience_bottle = true
 				parrot = true
 				guardian = true
+				pufferfish = true
+				boat = true
+				piglin = true
+				blaze = true
+				wither_skeleton = true
+				strider = true
+				zombified_piglin = true
+				magma_cube = true
+				piglin_brute = true
+				chest_minecart = true
+				elder_guardian = true
+				husk = true
+				phantom = true
 
 			[light_sources.settings.entities.pickyourpoison]
 				poison_dart_frog = true
@@ -125,6 +138,9 @@ mode = "fancy"
 				zebra = true
 				lion = true
 				giraffe = true
+				elephant = true
+				vulture = true
+				hippo = true
 
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true
@@ -149,10 +165,16 @@ mode = "fancy"
 				orc = true
 				deer = true
 				mammoth = true
+				nightmare = true
+				soul_reaper = true
+				iguana = true
 
 			[light_sources.settings.entities.immersive_aircraft]
 				warship = true
 				bullet = true
+				gyrodyne = true
+				biplane = true
+				quadrocopter = true
 
 			[light_sources.settings.entities.hybrid-aquatic]
 				fiddler_crab = true
@@ -214,6 +236,22 @@ mode = "fancy"
 				oscar = true
 				discus = true
 				sunfish = true
+				shrimp = true
+				cuttlefish = true
+				cowfish = true
+				triggerfish = true
+				clownfish = true
+				lionfish = true
+				blue_tang = true
+				unicorn_fish = true
+				nudibranch = true
+				seahorse = true
+				moray_eel = true
+				mauve_stinger = true
+				cauliflower_jellyfish = true
+				fried_egg_jellyfish = true
+				piranha = true
+				lions_mane_jellyfish = true
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true
@@ -226,6 +264,8 @@ mode = "fancy"
 				moobloom = true
 				rascal = true
 				mauler = true
+				copper_golem = true
+				iceologer = true
 
 			[light_sources.settings.entities.illagerinvasion]
 				archivist = true
@@ -236,6 +276,13 @@ mode = "fancy"
 			[light_sources.settings.entities.minecells]
 				elevator = true
 				custom_arrow = true
+				undead_archer = true
+				grenadier = true
+				shieldbearer = true
+				leaping_zombie = true
+				mutated_bat = true
+				runner = true
+				protector = true
 
 			[light_sources.settings.entities.smallships]
 				drakkar = true
@@ -259,4 +306,24 @@ mode = "fancy"
 
 			[light_sources.settings.entities.medievalweapons]
 				wooden_francisca = true
+
+			[light_sources.settings.entities.goblintraders]
+				goblin_trader = true
+				vein_goblin_trader = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				skull = true
+				naga = true
+				hydrogen_jellyfish = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+
+			[light_sources.settings.entities.aquamirae]
+				spinefish = true
+				anglerfish = true
+
+			[light_sources.settings.entities.snowyspirit]
+				gingerbread_golem = true
 

@@ -12,34 +12,7 @@
       "show_on_advanced_tooltips": false
     },
     "types": {
-      "wood_type": {
-        "betternether.nether_reed": true,
-        "betternether.stalagnate": true,
-        "betternether.willow": true,
-        "betternether.wart": true,
-        "betternether.rubeus": true,
-        "betternether.mushroom_fir": true,
-        "betternether.nether_mushroom": true,
-        "betternether.anchor_tree": true,
-        "betternether.nether_sakura": true,
-        "betterarcheology.rotten": true,
-        "betterend.mossy_glowshroom": true,
-        "betterend.pythadendron": true,
-        "betterend.end_lotus": true,
-        "betterend.lacugrove": true,
-        "betterend.dragon_tree": true,
-        "betterend.tenanea": true,
-        "betterend.helix_tree": true,
-        "betterend.umbrella_tree": true,
-        "betterend.jellyshroom": true,
-        "betterend.lucernia": true,
-        "botania.livingwood": true,
-        "botania.dreamwood": true,
-        "deeperdarker.echo": true,
-        "hybrid-aquatic.driftwood": true,
-        "minecells.putrid": true,
-        "snifferplus.stone_pine": true
-      },
+      "cake": {},
       "leaves_type": {
         "betternether.willow": true,
         "betternether.rubeus": true,
@@ -122,9 +95,39 @@
         "minecells.red_wilted": true,
         "snifferplus.stone_pine": true
       },
-      "cake": {}
+      "wood_type": {
+        "betternether.nether_reed": true,
+        "betternether.stalagnate": true,
+        "betternether.willow": true,
+        "betternether.wart": true,
+        "betternether.rubeus": true,
+        "betternether.mushroom_fir": true,
+        "betternether.nether_mushroom": true,
+        "betternether.anchor_tree": true,
+        "betternether.nether_sakura": true,
+        "betterarcheology.rotten": true,
+        "betterend.mossy_glowshroom": true,
+        "betterend.pythadendron": true,
+        "betterend.end_lotus": true,
+        "betterend.lacugrove": true,
+        "betterend.dragon_tree": true,
+        "betterend.tenanea": true,
+        "betterend.helix_tree": true,
+        "betterend.umbrella_tree": true,
+        "betterend.jellyshroom": true,
+        "betterend.lucernia": true,
+        "botania.livingwood": true,
+        "botania.dreamwood": true,
+        "deeperdarker.echo": true,
+        "hybrid-aquatic.driftwood": true,
+        "minecells.putrid": true,
+        "snifferplus.stone_pine": true
+      }
     },
     "entries": {
+      "leaves_type": {
+        "mcwfences.hedge": true
+      },
       "wood_type": {
         "chipped.fine_planks": true,
         "chipped.checkered_trapdoor": true,
@@ -334,9 +337,6 @@
         "mcwtrpdoors.mystic_trapdoor": true,
         "mcwtrpdoors.barrel_trapdoor": true,
         "another_furniture.chair": true
-      },
-      "leaves_type": {
-        "mcwfences.hedge": true
       }
     }
   }
