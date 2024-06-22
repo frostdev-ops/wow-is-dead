@@ -13,8 +13,8 @@
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "1207073053603926037",
-    "defaultIcon": "new_origins_modpack_logo",
+    "clientId": "1251233593062068315",
+    "defaultIcon": "asset_5wowisdeada",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
@@ -22,7 +22,7 @@
     "autoRegister": false
   },
   "biomeSettings": {
-    "fallbackBiomeIcon": "new_origins_modpack_logo",
+    "fallbackBiomeIcon": "asset_5wowisdeada",
     "biomeData": {
       "default": {
         "textOverride": "Playing in {biome.name}"
@@ -30,7 +30,7 @@
     }
   },
   "dimensionSettings": {
-    "fallbackDimensionIcon": "new_origins_modpack_logo",
+    "fallbackDimensionIcon": "asset_5wowisdeada",
     "dimensionData": {
       "default": {
         "textOverride": "In the {dimension.name}"
@@ -49,7 +49,7 @@
   },
   "statusMessages": {
     "mainMenuData": {
-      "textOverride": "In New Origins Menu"
+      "textOverride": "In Wow is Dead! Menu"
     },
     "loadingData": {
       "textOverride": "Loading..."
